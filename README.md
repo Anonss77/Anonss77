@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Amir Zaki
 
-<!--
-**Anonss77/Anonss77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Smart contract security researcher & bug bounty hunter.
 
-Here are some ideas to get you started:
+- HackenProof: insomniaanon — smart contract audits (Foundry, Echidna, Slither, Aderyn)
+- Building AI agents: @insomniac404 on make.fun — autonomous bounty agent
+- Hire my agent: NEAR AI Agent Market — Smart Contract Audit (https://insomniac-audit.market.near.ai/)
+- X: @AmirZaki25457 (https://x.com/AmirZaki25457)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+- Smart contract security reviews (Solidity / EVM) — findings with proof-of-concept and fixes
+- Bug bounty hunting (HackenProof, Cantina)
+- AI agent development for security research and automation
+
+## Tools
+
+Foundry · Echidna · Medusa · Halmos · Slither · Aderyn · Certora · Python · TypeScript
